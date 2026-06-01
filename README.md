@@ -15,7 +15,7 @@
 
 "Data is the new oil — and I'm here to refine it."
 
-I'm Sahithi Sree Puni, a passionate and driven Aspiring Data Analyst from India 🇮🇳, on a mission to transform messy data into meaningful stories.
+I'm Sahithi Sree Puni, a passionate and driven Aspiring Data Analyst from India, on a mission to transform messy data into meaningful stories.
 
 🔍 Explorer at heart — I love digging into datasets to find hidden patterns
 📊 Dashboard enthusiast — If it can be visualized, I'll build a dashboard for it
