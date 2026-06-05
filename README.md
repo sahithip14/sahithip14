@@ -60,20 +60,6 @@ I'm Sahithi Sree Puni, a passionate and driven Aspiring Data Analyst from India,
   </a>
 </p>
 
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahithip14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithip14&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahithip14&theme=tokyonight&hide_border=true" />
-</div>
-
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahithip14&theme=onedark&no-frame=true&row=1&column=7" />
-</div>
-
 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahithip14&theme=tokyo-night&hide_border=true" />
